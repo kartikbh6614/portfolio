@@ -119,8 +119,8 @@ params:
     enable: true
     intro: "Hi, there!"
     title: "I'm kartik bhalerao"
-    subtitle: "I'm passinate Front-End Developer"
-    content: "A passionate Front-End Developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    subtitle: "I'm passinate Full-Stack Developer"
+    content: "A passionate Full-Stack Developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
     image: /images/profile-photo.png
     bottomImage:
       enable: true
